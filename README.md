@@ -63,7 +63,7 @@ The Week 1 assessment focuses on:
 
 **Current stage: Requirements Analysis and System Design**
 
-This repository documents a proposed system architecture. Physical hardware construction, firmware development, sensor calibration, and real-world testing have not been completed as part of this Week 1 assessment.
+This repository documents a proposed system architecture. Physical hardware construction, firmware development, sensor calibration, and real-world testing have not been completed as part of this Week1 assessment.
 
 ## Future Scope
 
